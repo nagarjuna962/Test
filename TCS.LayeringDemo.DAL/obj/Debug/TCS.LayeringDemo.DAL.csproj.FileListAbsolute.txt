@@ -1,0 +1,7 @@
+c:\users\1269862\documents\visual studio 2013\Projects\TCS.LayeringDemo\TCS.LayeringDemo.DAL\bin\Debug\TCS.LayeringDemo.DAL.dll
+c:\users\1269862\documents\visual studio 2013\Projects\TCS.LayeringDemo\TCS.LayeringDemo.DAL\bin\Debug\TCS.LayeringDemo.DAL.pdb
+c:\users\1269862\documents\visual studio 2013\Projects\TCS.LayeringDemo\TCS.LayeringDemo.DAL\bin\Debug\TCS.LayeringDemo.BO.dll
+c:\users\1269862\documents\visual studio 2013\Projects\TCS.LayeringDemo\TCS.LayeringDemo.DAL\bin\Debug\TCS.LayeringDemo.BO.pdb
+c:\users\1269862\documents\visual studio 2013\Projects\TCS.LayeringDemo\TCS.LayeringDemo.DAL\obj\Debug\TCS.LayeringDemo.DAL.csprojResolveAssemblyReference.cache
+c:\users\1269862\documents\visual studio 2013\Projects\TCS.LayeringDemo\TCS.LayeringDemo.DAL\obj\Debug\TCS.LayeringDemo.DAL.dll
+c:\users\1269862\documents\visual studio 2013\Projects\TCS.LayeringDemo\TCS.LayeringDemo.DAL\obj\Debug\TCS.LayeringDemo.DAL.pdb
